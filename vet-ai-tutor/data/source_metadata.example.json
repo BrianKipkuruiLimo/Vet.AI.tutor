@@ -1,0 +1,10 @@
+{
+  "example-lecture.pdf": {
+    "source_title": "Full title of the lecture or publication",
+    "author": "Verified author or responsible institution",
+    "journal": "Journal, publisher, university, or course",
+    "publication_year": "2025",
+    "source_url": "https://approved-authority.example/path",
+    "source_tier": "tier_1"
+  }
+}

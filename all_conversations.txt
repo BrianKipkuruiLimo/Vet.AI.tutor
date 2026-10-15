@@ -1,0 +1,50 @@
+
+
+=== CONVERSATION: ea60a399-a562-4fa2-ac37-0bcc1434de9b ===
+
+USER:
+<USER_REQUEST>
+You are a senior Python developer helping me onboard into an existing project.
+
+I have cloned a repository called "vet_ai_tutor", an AI tool for veterinary students.
+
+Your task is to help me understand this project step by step in a clear, structured way.
+
+Please explain:
+
+1. The overall purpose of the project
+2. The architecture (how components are organized)
+3. The main entry point and how execution starts
+4. Key modules and what each one does
+5. How data flows through the system
+6. How the AI functionality is implemented (models, APIs, logic)
+7. A step-by-step example of what happens when a user asks a question
+
+Explain like I am a developer who wants to contribute to the project, not a beginner.
+Be clear, structured, and practical.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-01T22:56:57+03:00.
+
+The user's current state is as follows:
+Active Document: /home/nyuki/dev/vet_ai_tutor/README.md (LANGUAGE_MARKDOWN)
+Cursor is on line: 2
+Other open documents:
+<truncated 470 bytes>
+---
+BOT:
+Welcome to the **Vet AI Tutor** project. As a senior developer, you'll appreciate that this is a classic **Retrieval-Augmented Generation (RAG)** system designed for local execution. It leverages the LangChain ecosystem to provide veterinary students with an AI tutor that strictly uses their provided study materials.
+
+Below is a structured breakdown of the project to help you onboard.
+
+---
+
+### 1. Overall Purpose
+The project provides a **private, offline AI tutor**. Unlike general-purpose LLMs that might hallucinate veterinary facts, this tool retrieves context from specific lecture notes (PDFs, PowerPoints, Word docs) and uses a local LLM (via Ollama) to answer questions based *only* on that context.
+
+### 2. Architecture Overview
+The project follows a standard RAG pipeline, organized into four functional layers:
+
+*   **Ingestion Layer**: Scripts that crawl the `data/raw_notes` directory and process files.
+<truncated 3725 bytes>
+---

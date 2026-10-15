@@ -1,0 +1,303 @@
+[
+  {
+    "id": "q1",
+    "question": "What are the four main types of endocrine disorders?",
+    "answer": "Hormone excess, hormone deficiency, and decreased responsiveness of receptors.",
+    "notes": "Dysfunction can occur from too much hormone, too little hormone, or a failure of target tissues to respond."
+  },
+  {
+    "id": "q2",
+    "question": "What are the five cardinal signs of inflammation?",
+    "answer": "Heat (calor), redness (rubor), swelling (tumor), pain (dolor), and loss of function.",
+    "notes": "These classic signs result from vascular changes and the action of inflammatory mediators."
+  },
+  {
+    "id": "q3",
+    "question": "According to the notes, what are the three most important pharmacokinetic parameters?",
+    "answer": "Bioavailability, volume of distribution, and clearance.",
+    "notes": "These parameters describe the extent of drug absorption, the apparent space it occupies, and the efficiency of its elimination."
+  },
+  {
+    "id": "q4",
+    "question": "What are the three main components of a complete flock history for diagnosing poultry diseases?",
+    "answer": "Owner information, management information, and information on the illness.",
+    "notes": "A thorough history is crucial because poultry diseases are considered problems of the flock, not just individuals."
+  },
+  {
+    "id": "q5",
+    "question": "Which four groups of clostridia are mentioned based on their pathogenic effects?",
+    "answer": "Neurotoxic, histotoxic, enterotoxigenic, and those associated with antibiotic-induced disease.",
+    "notes": "Clostridia are classified by the primary site and mechanism of their toxicity, such as neurotoxins or tissue-destroying toxins."
+  },
+  {
+    "id": "q6",
+    "question": "What are the three main classifications of zoonoses according to their mode of transmission?",
+    "answer": "Direct zoonoses, cyclozoonoses, and metazoonoses.",
+    "notes": "This classification distinguishes between diseases transmitted by direct contact, those requiring multiple vertebrate hosts, and those transmitted by an invertebrate vector."
+  },
+  {
+    "id": "q7",
+    "question": "What are the three main layers of the arthropod exoskeleton?",
+    "answer": "The epicuticle, exocuticle, and endocuticle.",
+    "notes": "The exoskeleton is a non-cellular, multi-layered cuticle that provides support and protection."
+  },
+  {
+    "id": "q8",
+    "question": "What are the two main types of sutures based on the number of ties and needle insertions?",
+    "answer": "Interrupted sutures (tied separately) and continuous sutures (one tie at the beginning and end).",
+    "notes": "Interrupted sutures are more secure but slower to place, while continuous sutures are faster but can strangulate tissue."
+  },
+  {
+    "id": "q9",
+    "question": "List six important factors in toxicant-induced liver injury.",
+    "answer": "Uptake and concentration, bioactivation and detoxification, regeneration, inflammation, immune responses, and idiosyncratic reactions.",
+    "notes": "The liver's response to a toxin is a complex interplay of its physiological functions and pathological reactions."
+  },
+  {
+    "id": "q10",
+    "question": "What are the three main classes of hormones based on their chemical structure?",
+    "answer": "Steroids, proteins/polypeptides, and modified amino acids (or fatty acids).",
+    "notes": "The chemical structure of a hormone dictates how it is synthesized, stored, and interacts with its target cell receptors."
+  },
+  {
+    "id": "q11",
+    "question": "Name the three main bacterial genera known to cause omphalitis in chicks, as mentioned in the notes.",
+    "answer": "Escherichia, Staphylococcus, and Proteus.",
+    "notes": "Omphalitis, or yolk sac infection, is often caused by environmental bacteria entering through the unhealed navel."
+  },
+  {
+    "id": "q12",
+    "question": "Which zoonotic disease is considered the most common, widely prevalent, and economically most important viral disease of poultry?",
+    "answer": "Newcastle disease (also known as Ranikhet disease).",
+    "notes": "This paramyxovirus can cause severe respiratory and neurological signs, leading to high mortality and production losses."
+  },
+  {
+    "id": "q13",
+    "question": "What are the two main classes of arthropods of veterinary importance?",
+    "answer": "Insecta and Arachnida.",
+    "notes": "Insects have three pairs of legs and distinct body segments, while arachnids have four pairs of legs and fused body segments."
+  },
+  {
+    "id": "q14",
+    "question": "What is the mechanism of action of non-steroid hormones?",
+    "answer": "They use a second messenger system, such as cAMP or calcium, to exert their effect inside the cell.",
+    "notes": "As these hormones cannot cross the cell membrane, they bind to surface receptors, which then trigger an intracellular signal."
+  },
+  {
+    "id": "q15",
+    "question": "What is the main predisposing factor for necrotic enteritis in poultry?",
+    "answer": "Outbreaks of coccidiosis, which damage the intestinal lining and allow Clostridium perfringens to proliferate.",
+    "notes": "The damage to the gut mucosa by coccidia creates an ideal environment for the growth and toxin production of C. perfringens."
+  },
+  {
+    "id": "q16",
+    "question": "What is a haematoma and what is a common cause in dogs?",
+    "answer": "A haematoma is an excessive collection of blood beneath the skin, often caused by rupture of a blood vessel from persistent head shaking, such as in cases of otitis.",
+    "notes": "The shaking creates shear forces that can tear blood vessels, leading to a pocket of blood, commonly in the ear flap (aural hematoma)."
+  },
+  {
+    "id": "q17",
+    "question": "What is 'pulpy kidney' disease and what causes it?",
+    "answer": "A disease in sheep caused by Clostridium perfringens type D, characterized by a toxemia that leads to kidney damage.",
+    "notes": "The epsilon toxin produced by the bacteria causes increased vascular permeability and necrosis, with the kidneys becoming soft and pulpy."
+  },
+  {
+    "id": "q18",
+    "question": "Name the two main types of liver injury based on cell death morphology.",
+    "answer": "Oncotic necrosis (necrosis) and apoptosis.",
+    "notes": "Necrosis involves cell swelling and inflammation, while apoptosis is characterized by cell shrinkage and lack of inflammation."
+  },
+  {
+    "id": "q19",
+    "question": "What is a key difference between Staphylococcus and Micrococcus?",
+    "answer": "Micrococcus are typically oxidase-positive and oxidative in metabolism, whereas Staphylococcus are oxidase-negative and fermentative.",
+    "notes": "This distinction helps differentiate these two genera of Gram-positive cocci in the lab."
+  },
+  {
+    "id": "q20",
+    "question": "What are the two forms of Marek's disease described in the notes?",
+    "answer": "Classical Marek's disease (nerve enlargement and paralysis) and acute Marek's disease (visceral tumors).",
+    "notes": "The classical form primarily affects nerves, while the acute form is more common and characterized by tumor formation in organs like the liver and spleen."
+  },
+  {
+    "id": "q21",
+    "question": "What are the three types of plague based on the route of infection in humans?",
+    "answer": "Bubonic (from flea bite), pneumonic (inhalation), and septicemic (spread to bloodstream).",
+    "notes": "The clinical form of plague depends on how the bacterium, Yersinia pestis, enters and disseminates in the body."
+  },
+  {
+    "id": "q22",
+    "question": "What is the function of the hypothalamic-hypophyseal portal system?",
+    "answer": "It carries hypothalamic regulatory hormones directly to the anterior pituitary gland to control its secretion of trophic hormones.",
+    "notes": "This direct vascular connection allows for rapid and targeted communication between the brain and the master gland."
+  },
+  {
+    "id": "q23",
+    "question": "What are the three forms of salmonellosis based on clinical presentation?",
+    "answer": "Septicemic form, acute enteritis, and chronic enteritis.",
+    "notes": "Salmonella infections can manifest as a systemic blood infection, a severe intestinal inflammation, or a prolonged, wasting diarrheal disease."
+  },
+  {
+    "id": "q24",
+    "question": "What is the main function of a Penrose drain, and what is its primary disadvantage?",
+    "answer": "It is a passive drain that uses gravity to remove small volumes of fluid. Its main disadvantage is that it's difficult to measure fluid production, and it can allow air to enter the wound.",
+    "notes": "Penrose drains are soft, flexible, and inexpensive, making them suitable for superficial wounds, but they offer limited control over drainage."
+  },
+  {
+    "id": "q25",
+    "question": "What is the difference between pharmacodynamics and pharmacokinetics?",
+    "answer": "Pharmacodynamics is the study of what the drug does to the body, while pharmacokinetics is the study of what the body does to the drug (ADME).",
+    "notes": "Pharmacodynamics covers drug action and effect, whereas pharmacokinetics covers drug absorption, distribution, metabolism, and excretion."
+  },
+  {
+    "id": "q26",
+    "question": "What is the characteristic microscopic feature of Gumboro disease in the bursa of Fabricius?",
+    "answer": "Depletion of lymphocytes in the bursal follicles, which can be seen as edema, hemorrhage, and inflammation in acute stages, and atrophy in later stages.",
+    "notes": "The virus specifically targets and destroys B lymphocytes in the bursa, leading to immunosuppression."
+  },
+  {
+    "id": "q27",
+    "question": "What is the primary mechanism of liver injury in edema disease of swine?",
+    "answer": "While the primary lesion is vascular, the Shiga-like toxin produced by Escherichia coli causes necrotizing arteritis, which can lead to infarction and edema in various organs, including the brain and stomach wall.",
+    "notes": "The toxin damages blood vessels, leading to increased permeability and necrosis, which causes the characteristic edema and neurological signs."
+  },
+  {
+    "id": "q28",
+    "question": "What are the three main forms of anthrax in humans and how are they acquired?",
+    "answer": "Cutaneous (through skin contact), pulmonary (inhalation of spores), and intestinal (ingestion of contaminated meat).",
+    "notes": "The route of entry of Bacillus anthracis spores determines the clinical form of the disease."
+  },
+  {
+    "id": "q29",
+    "question": "What is the difference between an agonist and an antagonist in pharmacology?",
+    "answer": "An agonist binds to a receptor and activates it, producing a response. An antagonist binds to a receptor but does not activate it, blocking the action of an agonist.",
+    "notes": "Agonists have both affinity for the receptor and intrinsic activity, while antagonists have affinity but no intrinsic activity."
+  },
+  {
+    "id": "q30",
+    "question": "In poultry, what are the two forms of coccidiosis, and which Eimeria species are primarily associated with each?",
+    "answer": "Caecal coccidiosis (Eimeria tenella) and intestinal coccidiosis (Eimeria necatrix).",
+    "notes": "E. tenella targets the ceca, causing severe hemorrhage, while E. necatrix affects the small intestine, leading to weight loss and mortality."
+  },
+  {
+    "id": "q31",
+    "question": "What is the function of the clara cells in the bronchioles?",
+    "answer": "They secrete a glycoprotein that contributes to a protective layer of surfactant.",
+    "notes": "Clara cells are non-ciliated cells that help protect the bronchiolar lining and are involved in detoxification."
+  },
+  {
+    "id": "q32",
+    "question": "What is the most common cause of infertility in dogs and cats?",
+    "answer": "Husbandry problems, including improper timing of breeding, breeding techniques, and male selection.",
+    "notes": "Before investigating complex medical causes, it's essential to rule out basic management issues in the breeding program."
+  },
+  {
+    "id": "q33",
+    "question": "List the four main families of Gram-positive, spore-forming large rods mentioned in the lecture outline.",
+    "answer": "Bacillus, Clostridium, (and the outline also includes filamentous non-spore forming rods like Actinomyces, Nocardia, and Dermatophilus in a separate group).",
+    "notes": "The lecture outline groups bacteria by Gram stain, shape, spore formation, and catalase reaction to organize the study of pathogens."
+  },
+  {
+    "id": "q34",
+    "question": "What is the characteristic postmortem finding in a chicken with Vitamin A deficiency?",
+    "answer": "Small white pustules or raised granules on the inner lining of the esophagus, caused by distended and impacted mucous glands.",
+    "notes": "Vitamin A is essential for maintaining the integrity of mucous membranes; its deficiency leads to squamous metaplasia and blockage of glandular ducts."
+  },
+  {
+    "id": "q35",
+    "question": "What is the primary mechanism of renal injury caused by aminoglycoside antibiotics?",
+    "answer": "Induction of apoptosis and necrosis within the renal tubular epithelial cells, primarily in the proximal convoluted tubule.",
+    "notes": "Aminoglycosides are taken up by tubular cells, where they accumulate and cause direct cellular damage, leading to acute kidney injury."
+  },
+  {
+    "id": "q36",
+    "question": "What are the three phases of milk fever in cows?",
+    "answer": "Stage 1: Excitement; Stage 2: Sternal recumbency; Stage 3: Lateral recumbency.",
+    "notes": "Hypocalcemia leads to progressive neurological and muscular dysfunction, from mild excitement to complete paralysis and unconsciousness."
+  },
+  {
+    "id": "q37",
+    "question": "What is the primary vector for Leishmania, and what life stage does it transmit?",
+    "answer": "The female phlebotomine sandfly transmits the promastigote stage of the parasite during a blood meal.",
+    "notes": "The sandfly injects the flagellated promastigote form, which is then taken up by macrophages and transforms into the amastigote stage."
+  },
+  {
+    "id": "q38",
+    "question": "What is the most common cause of infectious bovine keratoconjunctivitis ('pink eye')?",
+    "answer": "Moraxella bovis, specifically piliated strains capable of adhering to the corneal epithelium.",
+    "notes": "Pili allow the bacteria to attach to the cornea, where they release cytotoxins that cause ulceration, a prerequisite for the disease."
+  },
+  {
+    "id": "q39",
+    "question": "What is the mechanism of action of the tetanospasmin toxin from Clostridium tetani?",
+    "answer": "It inhibits the release of inhibitory neurotransmitters (GABA and glycine) at the neuromuscular junction, leading to uncontrolled muscle contraction and spastic paralysis.",
+    "notes": "By blocking the signals that tell muscles to relax, the toxin causes the persistent, rigid muscle contractions characteristic of tetanus."
+  },
+  {
+    "id": "q40",
+    "question": "What are the three main phases of a drug's action in the body according to the principles of pharmacology?",
+    "answer": "The pharmaceutical phase (disintegration and dissolution), the pharmacokinetic phase (ADME), and the pharmacodynamic phase (drug-receptor interaction and effect).",
+    "notes": "This framework describes the journey of a drug from its administered form to its final biological effect."
+  },
+  {
+    "id": "q41",
+    "question": "In poultry, what are the three most common bacterial causes of gangrenous dermatitis?",
+    "answer": "Clostridia, Staphylococci, and Escherichia coli, often in combination.",
+    "notes": "These opportunistic bacteria can cause severe skin and muscle necrosis, especially in immunosuppressed birds or following skin injury."
+  },
+  {
+    "id": "q42",
+    "question": "What are the two forms of gout in poultry?",
+    "answer": "Visceral gout (deposition of urates on internal organs) and articular gout (deposition in the joints).",
+    "notes": "Gout results from kidney failure or dysfunction, leading to the accumulation of uric acid in the blood and its subsequent deposition in tissues."
+  },
+  {
+    "id": "q43",
+    "question": "What is the confirmed infectious cause of infertility in female dogs?",
+    "answer": "Brucellosis, caused by the bacterium Brucella canis.",
+    "notes": "B. canis is a highly contagious zoonotic bacterium that causes abortion and infertility in females and orchitis/epididymitis in males."
+  },
+  {
+    "id": "q44",
+    "question": "What are the two main types of surgical drains based on their mechanism of action?",
+    "answer": "Passive drains (rely on gravity and pressure, e.g., Penrose drain) and active drains (create negative pressure to pull fluid out, e.g., Jackson-Pratt drain).",
+    "notes": "The choice of drain depends on the volume and viscosity of the fluid, the location of the wound, and the need for a closed system."
+  },
+  {
+    "id": "q45",
+    "question": "What is a 'seroma' and how can it be prevented?",
+    "answer": "A seroma is an accumulation of serous fluid in a tissue layer. It can be prevented by using aseptic technique, achieving good hemostasis, careful tissue apposition to obliterate dead space, and placement of drains.",
+    "notes": "Seromas delay healing by creating a physical barrier and providing a potential site for infection."
+  },
+  {
+    "id": "q46",
+    "question": "According to the notes, what is the most common cause of early chick mortality (first week after hatching)?",
+    "answer": "Yolk sac infection (omphalitis), most commonly caused by Escherichia coli.",
+    "notes": "Bacteria, often from fecal contamination of eggs, enter through the unhealed navel and infect the unabsorbed yolk sac."
+  },
+  {
+    "id": "q47",
+    "question": "What is a major zoonotic risk associated with Taenia solium, beyond causing intestinal taeniasis?",
+    "answer": "Ingestion of its eggs can lead to cysticercosis in humans, where larvae encyst in tissues, including the brain (neurocysticercosis).",
+    "notes": "While eating undercooked pork causes the intestinal tapeworm, fecal-oral contamination with eggs causes the far more dangerous cysticercosis."
+  },
+  {
+    "id": "q48",
+    "question": "What is the mechanism of action of steroid hormones?",
+    "answer": "They diffuse across the cell membrane, bind to intracellular receptors in the cytoplasm or nucleus, and the hormone-receptor complex then binds to DNA to activate or repress specific genes.",
+    "notes": "This genomic action is slower than that of non-steroid hormones and results in the synthesis of new proteins."
+  },
+  {
+    "id": "q49",
+    "question": "In the context of metabolic diseases, what is meant by the term 'production diseases'?",
+    "answer": "Disorders induced by the combined stress of high production and inadequate or wrongly balanced feed input, or excess output.",
+    "notes": "These are often called 'man-made diseases' as they result from management practices aimed at maximizing yield."
+  },
+  {
+    "id": "q50",
+    "question": "What is the role of eosinophils in type I hypersensitivity reactions?",
+    "answer": "They modulate the inflammation by releasing enzymes like histaminase to neutralize histamine and minimize tissue damage.",
+    "notes": "Eosinophils are attracted to the site by factors released from mast cells and act as a regulatory brake on the acute allergic response."
+  }
+
+]

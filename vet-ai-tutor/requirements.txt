@@ -1,0 +1,48 @@
+# =============================================
+# Vet AI Tutor — Production Dependencies
+# =============================================
+
+# Core LangChain
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-chroma>=0.2.0
+
+# Vector store
+chromadb>=0.5.0
+
+# NOTE: sentence-transformers + langchain-huggingface removed.
+# Embeddings now run through Ollama (nomic-embed-text model).
+# This saves ~3-4 GB of PyTorch + model weight installs.
+
+# Document loaders (lightweight — no unstructured needed)
+pypdf>=4.0.0
+python-docx>=1.0.0
+python-pptx>=1.0.0
+docx2txt>=0.8
+
+# BM25 hybrid search
+rank-bm25>=0.2.2
+
+# Tokenizer
+tiktoken>=0.7.0
+
+# UI
+streamlit>=1.35.0
+
+# Production API
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# Web scraping (harvester)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Utilities
+numpy>=1.26.0
+
+# Testing
+pytest>=8.0.0
+httpx>=0.27.0

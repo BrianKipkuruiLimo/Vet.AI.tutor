@@ -1,0 +1,7 @@
+Recommendations (short):
+- Increase chunk overlap (e.g., +50-150) to reduce split-token loss across context boundaries.
+- Try larger chunk_size (e.g., 800-1200) so key facts stay together in chunks.
+- Experiment with a stronger embedding model (example: sentence-transformers/all-mpnet-base-v2) and compare recall.
+- If runtime permits, increase retriever `k` during prompting and/or use reranking with the LLM for final selection.
+
+Next steps: adjust one variable at a time (overlap, chunk size, or embedding model), rebuild, then re-run the evaluator.

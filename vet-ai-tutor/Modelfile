@@ -1,0 +1,10 @@
+FROM llama3.2:3b
+# Tight context window — reduces KV cache RAM by ~50% vs default 4096
+PARAMETER num_ctx 1024
+# Cap output at 200 tokens (~120 words) — each token = ~200ms on i7 CPU
+PARAMETER num_predict 200
+# Slightly lower temperature for more focused, shorter answers
+PARAMETER temperature 0.4
+# Stop early on these patterns to avoid runaway generation
+PARAMETER stop "SOURCES:"
+PARAMETER stop "\n\n\n"
