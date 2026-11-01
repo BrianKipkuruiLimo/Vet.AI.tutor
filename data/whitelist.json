@@ -1,0 +1,39 @@
+{
+    "_comment": "Approved domains for web scraping. Only URLs from these domains will be ingested.",
+    "tier_1": {
+        "description": "Peer-reviewed journals, textbooks, official veterinary manuals",
+        "domains": [
+            "merckvetmanual.com",
+            "avma.org",
+            "ncbi.nlm.nih.gov",
+            "pubmed.ncbi.nlm.nih.gov",
+            "veterinaryrecord.bmj.com",
+            "onlinelibrary.wiley.com",
+            "journals.sagepub.com",
+            "oie.int",
+            "woah.org",
+            "fao.org"
+        ]
+    },
+    "tier_2": {
+        "description": "University veterinary programs and reputable educational sites",
+        "domains": [
+            "vet.cornell.edu",
+            "vetmed.ucdavis.edu",
+            "vet.purdue.edu",
+            "rvc.ac.uk",
+            "vetmed.tamu.edu",
+            "vetmed.umn.edu",
+            "cvm.msu.edu",
+            "vetmed.illinois.edu",
+            "vet.upenn.edu",
+            "cabi.org",
+            "iucnredlist.org",
+            "animaldiversity.org"
+        ]
+    },
+    "tier_3": {
+        "description": "No general-purpose sources are approved for clinical knowledge.",
+        "domains": []
+    }
+}

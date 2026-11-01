@@ -1,0 +1,4 @@
+k,found,total,recall_pct,avg_best_cosine,result_file
+4,4,53,7.55,0.544,data/eval/results_k4_1771692789.json
+8,3,53,5.66,0.560,data/eval/results_k8_1771692975.json
+12,4,53,7.55,0.589,data/eval/results_k12_1771693157.json

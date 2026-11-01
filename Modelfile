@@ -1,0 +1,11 @@
+# Optional tuned model for CPU laptops: `ollama create vet-tutor -f Modelfile`,
+# then run the app with VET_LLM_MODEL=vet-tutor. The app already passes the
+# same settings (and disables Qwen3 thinking) when using qwen3:1.7b directly.
+FROM qwen3:1.7b
+# Fits the system prompt + 5 retrieved chunks + the answer; larger costs RAM and speed
+PARAMETER num_ctx 2048
+# ~150 words; on a 2-core i7 each token takes ~40-60 ms
+PARAMETER num_predict 256
+# Low temperature keeps answers close to the cited passages
+PARAMETER temperature 0.3
+PARAMETER stop "SOURCES:"

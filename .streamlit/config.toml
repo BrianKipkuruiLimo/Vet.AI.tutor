@@ -1,0 +1,8 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+# The only Streamlit app is the developer dashboard; keep it off the network.
+address = "127.0.0.1"
+port = 8502
+headless = true
